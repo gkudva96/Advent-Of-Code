@@ -12,4 +12,5 @@ with open('input.txt', 'r') as f:
 # For each distinct pair of expenses
 for pair in combinations(expense_report, 2):
     if sum(pair) == 2020:
-        print(pair[0] * pair[1])
+        print("The Expenses:", pair[0], pair[1])
+        print("Required Product:", pair[0] * pair[1])
