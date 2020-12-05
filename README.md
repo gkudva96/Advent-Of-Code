@@ -5,3 +5,4 @@ The daily problems are listed as follows:
 * [Day 2: Password Philosophy](./Day2/)
 * [Day 3: Toboggan Trajectory](./Day3/)
 * [Day 4: Passport Processing](./Day4/)
+* [Day 5: Binary Boarding](./Day5/)
