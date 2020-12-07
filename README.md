@@ -6,3 +6,4 @@ The daily problems are listed as follows:
 * [Day 3: Toboggan Trajectory](./Day3/)
 * [Day 4: Passport Processing](./Day4/)
 * [Day 5: Binary Boarding](./Day5/)
+* [Day 6: Custom Customs](./Day6/)
