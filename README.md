@@ -8,3 +8,4 @@ The daily problems are listed as follows:
 * [Day 5: Binary Boarding](./Day5/)
 * [Day 6: Custom Customs](./Day6/)
 * [Day 7: Handy Haversacks](./Day7/)
+* [Day 8: Handheld Halting](./Day8/)
