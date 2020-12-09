@@ -9,3 +9,4 @@ The daily problems are listed as follows:
 * [Day 6: Custom Customs](./Day6/)
 * [Day 7: Handy Haversacks](./Day7/)
 * [Day 8: Handheld Halting](./Day8/)
+* [Day 9: Encoding Error](./Day9/)
