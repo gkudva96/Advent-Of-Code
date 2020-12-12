@@ -10,3 +10,4 @@ The daily problems are listed as follows:
 * [Day 7: Handy Haversacks](./Day7/)
 * [Day 8: Handheld Halting](./Day8/)
 * [Day 9: Encoding Error](./Day9/)
+* [Day 10: Adapter Array](./Day10/)
