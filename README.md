@@ -12,3 +12,4 @@ The daily problems are listed as follows:
 * [Day 9: Encoding Error](./Day9/)
 * [Day 10: Adapter Array](./Day10/)
 * [Day 11: Seating System](./Day11/)
+* [Day 12: Rain Risk](./Day12/)
