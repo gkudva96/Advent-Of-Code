@@ -16,3 +16,4 @@ The daily problems are listed as follows:
 * [Day 13: Shuttle Search](./Day13/)
 * [Day 14: Docking Data](./Day14/)
 * [Day 15: Rambunctious Recitation](./Day15/)
+* [Day 16: Ticket Translation](./Day16/)
