@@ -18,3 +18,4 @@ The daily problems are listed as follows:
 * [Day 15: Rambunctious Recitation](./Day15/)
 * [Day 16: Ticket Translation](./Day16/)
 * [Day 18: Operation Order](./Day18/)
+* [Day 25: Combo Breaker](./Day25/)
