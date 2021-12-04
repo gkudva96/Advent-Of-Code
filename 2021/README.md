@@ -3,3 +3,4 @@ This repository contains the solutions to the programming puzzles found at [AoC2
 The daily problems are listed as follows:
 * [Day 1: Sonar Sweep](./Day1/)
 * [Day 2: Dive](./Day2/)
+* [Day 3: Binary Diagnostic](./Day3/)
