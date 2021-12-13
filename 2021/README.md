@@ -10,3 +10,4 @@ The daily problems are listed as follows:
 * [Day 7: The Treachery of Whales](./Day7/)
 * [Day 8: Seven Segment Search](./Day8/)
 * [Day 9: Smoke Basin](./Day9/)
+* [Day 10: Syntax Scoring](./Day10/)
